@@ -3,8 +3,7 @@ import NotesList from "./Components/NotesList";
 import {nanoid} from 'nanoid';
 import Search from './Components/Search'
 import Header from "./Components/Header";
-
-
+//push test
 const App = () => {
   const [notes, setNotes] = useState(
     [{
